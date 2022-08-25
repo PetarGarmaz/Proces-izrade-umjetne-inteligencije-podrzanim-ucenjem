@@ -1,0 +1,11 @@
+--- SOUND ---
+destructionHouse.wav => https://freesfx.co.uk/sfx/debris
+destructionRock.wav => https://freesfx.co.uk/sfx/debris
+playerShot.wav/enemyShot.wav => https://freesound.org/s/127845/
+playerShotM2.wav => https://quicksounds.com/sound/17753/machine-gun-browning-m2-2
+tankIdle.wav => https://freesound.org/people/flyguy85/sounds/156919/
+tankMove.wav => https://www.videvo.net/sound-effect/tank-leopard-up-past-pe889203/258639/
+
+--- ANIMATIONS ---
+Tank explosion => https://gifer.com/en/Yecx
+Smoke animation => https://gifer.com/en/3klP
