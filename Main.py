@@ -7,7 +7,7 @@ import random
 import numpy as np
 import torch #pip3 install torch torchvision torchaudio
 
-from Model import Linear_QNet, QTrainer
+from Model import LinearQNN, QTrainer
 from TrainMovement import TrainMovement
 from Plot import Plot
 from collections import deque
